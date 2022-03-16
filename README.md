@@ -1,7 +1,8 @@
 # NodeJs-Express-React-Tutorial
 Updated version of mfkri's fullstack Node + React Tutorial : https://mfikri.com/en/blog/node-express-react-mysql
 
- *Changed Switch and History imports to Routes and Navigate, since Switch and History are deprecated and don't work anymore*
+ - Changed Switch and History imports to Routes and Navigate, since Switch and History are deprecated and don't work anymore
+ - "import 'bulma/css/bulma.min.css';" Included for Bulma works properly. 
 
 # How to run
 
