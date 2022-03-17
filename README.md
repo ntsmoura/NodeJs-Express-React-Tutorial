@@ -16,6 +16,6 @@ Open another terminal, go to **frontend** folder and run:
 ```
 npm start
 ```
-If you don't, run ``` npm install ``` on both **backend** and **frontend** folders, before run the commands behind.
+If you don't, run ``` npm install ``` on both **backend** and **frontend** folders, before run the previous commands.
 
 **obs**: Make sure to have a MySQL database running on localhost:5000
