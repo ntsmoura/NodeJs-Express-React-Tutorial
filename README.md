@@ -6,7 +6,7 @@ Updated version of mfkri's fullstack Node + React Tutorial : https://mfikri.com/
 
 # How to run
 
-If you all needed dependencies:
+If you have all needed dependencies:
 
 Open 1 terminal, go to **backend** folder and run: 
 ```
