@@ -6,7 +6,7 @@ Updated version of mfkri's fullstack Node + React Tutorial : https://mfikri.com/
 
 # How to run
 
-If you are on a linux system and you have all needed dependencies:
+If you all needed dependencies:
 
 Open 1 terminal, go to **backend** folder and run: 
 ```
@@ -16,5 +16,6 @@ Open another terminal, go to **frontend** folder and run:
 ```
 npm start
 ```
+If you don't, run ``` npm install ``` on both **backend** and **frontend** folders, before run the commands behind.
 
 **obs**: Make sure to have a MySQL database running on localhost:5000
