@@ -20,4 +20,4 @@ Then access http://localhost:3000/ on your browser.
 
 If you don't have, run ``` npm install ``` on both **backend** and **frontend** folders, before run the previous commands.
 
-**obs**: Make sure to have a MySQL database named "mern_db", and with a table named "products" running on localhost.
+**obs**: Make sure to have a MySQL database named "mern_db", with a table named "products", running on localhost.
